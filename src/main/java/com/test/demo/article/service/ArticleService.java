@@ -6,5 +6,6 @@ import com.test.demo.article.repostitory.ArticleRepository;
 
 @Service("articleService")
 public interface ArticleService extends ArticleRepository {
+	
 
 }
