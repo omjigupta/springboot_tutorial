@@ -4,6 +4,12 @@ import org.springframework.stereotype.Service;
 
 import com.test.demo.article.repostitory.ArticleRepository;
 
+/**
+ * 
+ * @author omji
+ * @see ArticleRepos`itory
+ *
+ */
 @Service("articleService")
 public interface ArticleService extends ArticleRepository {
 	
